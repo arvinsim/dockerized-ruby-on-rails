@@ -2,6 +2,7 @@ source 'https://rubygems.org'
 
 gem 'rails', '4.2.11.1'
 
+gem 'bootsnap'
 gem 'jquery-rails', '~> 4.3.3'
 gem 'draper', '~> 2.1.0'
 gem 'redis', '~> 4.1.0'
